@@ -6,7 +6,7 @@
 body {
   background-color: var(--bg-color);
   font-family: Helvetica, Arial, sans-serif;
-  background-image: url('img_girl.jpg');
+  background-image: url('images/jungle.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
